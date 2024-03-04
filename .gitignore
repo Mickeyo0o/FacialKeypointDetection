@@ -1,9 +1,0 @@
-test_data/*
-training_data/*
-*.zip
-*.csv
-*.keras
-*.onnx
-__pycache__
-training/*
-model_weights*.h5
